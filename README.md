@@ -5,6 +5,7 @@ Proje 3
 
 
 1.adım: Root=7
+
 2.adım: 5 < 7                
 
              7 
